@@ -60,7 +60,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2 style={{ color: "#96ABA3" }}>About Myself</h2>
         <p className="large">{description}</p>
         <hr />
         <ul

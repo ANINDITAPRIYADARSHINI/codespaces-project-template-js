@@ -51,7 +51,7 @@ const Skills = () => {
           textAlign: "center",
         }}
       >
-        <h2>My SkillSet</h2>
+        <h2 style={{ color: "#96ABA3" }}>My SkillSet</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
